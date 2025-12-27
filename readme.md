@@ -2,7 +2,7 @@
 
 A Microsoft Word Add-in that automatically redacts sensitive information from documents while tracking all changes.
 
-![Document Redactor Demo](screenshot.png)
+![Document Redactor Demo](Screenshot.png)
 
 ## 🎯 Features
 
@@ -86,18 +86,6 @@ Test with the included sample document or your own:
 # The repository includes a sample document for testing
 Document-To-Be-Redacted.docx
 ```
-
-## 🤝 Challenge Submission
-
-This project was created for the McCarren Inc. Office Add-in Challenge.
-
-**Requirements Met:**
-- ✅ Redact sensitive information (emails, phones, SSNs)
-- ✅ Add confidential header at document top
-- ✅ Enable Track Changes with API version check
-- ✅ TypeScript implementation
-- ✅ Custom CSS styling (no external libraries)
-- ✅ Works in Word Online and Desktop
 
 ## 📝 License
 
