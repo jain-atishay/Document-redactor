@@ -87,18 +87,6 @@ Test with the included sample document or your own:
 Document-To-Be-Redacted.docx
 ```
 
-## 🤝 Challenge Submission
-
-This project was created for the McCarren Inc. Office Add-in Challenge.
-
-**Requirements Met:**
-- ✅ Redact sensitive information (emails, phones, SSNs)
-- ✅ Add confidential header at document top
-- ✅ Enable Track Changes with API version check
-- ✅ TypeScript implementation
-- ✅ Custom CSS styling (no external libraries)
-- ✅ Works in Word Online and Desktop
-
 ## 📝 License
 
 MIT License - feel free to use this project for learning and development.
