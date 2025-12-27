@@ -2,7 +2,7 @@
 
 A Microsoft Word Add-in that automatically redacts sensitive information from documents while tracking all changes.
 
-![Document Redactor Demo](screenshot.png)
+![Document Redactor Demo](Screenshot.png)
 
 ## 🎯 Features
 
